@@ -1,5 +1,5 @@
 
-var map = L.map('map').setView([38.89820, -77.03009], 14);
+var map = L.map('map').setView([38.89820, -77.03009], 12);
 
 L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
   maxZoom: 20,
