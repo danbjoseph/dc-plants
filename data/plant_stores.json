@@ -1,0 +1,652 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Plant BCC Location",
+        "note": "",
+        "phone": "301-656-3311",
+        "address": "5258 River Rd, Bethesda, MD 20816",
+        "web": "https://americanplant.store/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1054988,
+          38.965452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Plant Beltway Location",
+        "note": "",
+        "phone": "301-469-7690",
+        "address": "7405 River Rd, Bethesda, MD 20817",
+        "web": "https://americanplant.store/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1516116,
+          38.9905417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annie's Ace Hardware - Brookland",
+        "note": "",
+        "phone": "202-529-2658",
+        "address": "3405 8th St NE, Washington, DC 20017",
+        "web": "https://www.annieshardwarebrooklanddc.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9947161,
+          38.9316377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botanologica",
+        "note": "",
+        "phone": "703-992-6144",
+        "address": "817 W Broad St, Falls Church, VA 22046",
+        "web": "https://www.botanologica.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1817041,
+          38.8887299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Four Seasons Flower Market",
+        "note": "",
+        "phone": "703-356-1795",
+        "address": "6808 Elm St, McLean, VA 22101",
+        "web": "http://fourseasonsflowermarket.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1775947,
+          38.934729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frager's Ace Hardware",
+        "note": "",
+        "phone": "202-543-6157",
+        "address": "1115 Pennsylvania Ave. SE, Washington, DC 20003",
+        "web": "https://www.acehardware.com/store-details/16687",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99091,
+          38.88225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ginkgo Gardens",
+        "note": "",
+        "phone": "202-543-5172",
+        "address": "911 11th St SE, Washington, DC 20003",
+        "web": "http://ginkgogardens.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99178,
+          38.87889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenstreet Gardens of Belle Haven",
+        "note": "",
+        "phone": "",
+        "address": "5905 Richmond Hwy, Alexandria, VA 22303",
+        "web": "http://www.greenstreetgardens.com/",
+        "seasonal": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0613195,
+          38.7901626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenstreet Gardens of Virginia",
+        "note": "",
+        "phone": "703-998-3030",
+        "address": "1721 W Braddock Rd, Alexandria, VA 22302",
+        "web": "http://www.greenstreetgardens.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0867603,
+          38.8271537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H St. Farms by Cultivate the City",
+        "note": "",
+        "phone": "202-627-0761",
+        "address": "910 Bladensburg Rd NE, Washington, DC 20002",
+        "web": "http://www.cultivatethecity.com/h-st-farms-ws-jenks-son/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9822111,
+          38.9025468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holly, Woods & Vines",
+        "note": "",
+        "phone": "703-799-1607",
+        "address": "8453 Richmond Hwy #2408, Alexandria, VA 22309",
+        "web": "http://www.hollywoodsandvines.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1105055,
+          38.7271654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homestead Gardens Davidsonville",
+        "note": "",
+        "phone": "410-798-5000",
+        "address": "743 W Central Ave, Davidsonville, MD 21035",
+        "web": "https://homesteadgardens.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6249386,
+          38.9235225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homestead Gardens Severna Park",
+        "note": "",
+        "phone": "410-384-7966",
+        "address": "522 Ritchie Hwy, Severna Park, MD 21146",
+        "web": "https://homesteadgardens.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5477939,
+          39.0784893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Leaf on 14th street",
+        "note": "",
+        "phone": "202-506-2131",
+        "address": "1401 S St NW, Washington, DC 20009",
+        "web": "http://littleleafshop.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03249,
+          38.91418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logan Ace Hardware",
+        "note": "",
+        "phone": "202-265-8900",
+        "address": "1734 14th St NW, Washington, DC 20009",
+        "web": "https://www.acehardware.com/store-details/11410",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0322565,
+          38.9137623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadows Farms Nurseries in 7 Corners/Falls Church",
+        "note": "",
+        "phone": "",
+        "address": "6461 Arlington Blvd, Falls Church, VA 22042",
+        "web": "https://meadowsfarms.com/locations/7-corners/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1658365,
+          38.8704968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadows Farms Nurseries in Annandale",
+        "note": "",
+        "phone": "",
+        "address": "4808 Backlick Rd, Annandale VA 22003",
+        "web": "https://meadowsfarms.com/locations/annandale/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1902449,
+          38.8190218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadows Farms Nurseries in Burtonsville",
+        "note": "",
+        "phone": "",
+        "address": "15930 Old Columbia Pike, Burtonsville, MD 20866",
+        "web": "https://meadowsfarms.com/locations/burtonsville/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9325184,
+          39.1188044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadows Farms Nurseries in Great Falls",
+        "note": "",
+        "phone": "",
+        "address": "10618 Leesburg Pike, Vienna, VA 22182",
+        "web": "https://meadowsfarms.com/locations/great-falls/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.314075,
+          38.9779497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadows Farms Nurseries in Herndon off Route 7",
+        "note": "",
+        "phone": "",
+        "address": "11254 Leesburg Pike, Herndon, VA 20170",
+        "web": "https://meadowsfarms.com/locations/route-7-herndon/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.334971,
+          38.9957633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merrifield Garden Center in Fair Oaks",
+        "note": "",
+        "phone": "703-968-9600",
+        "address": "12101 Lee Hwy., Fairfax, VA 22030",
+        "web": "http://www.merrifieldgardencenter.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3657272,
+          38.8460622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merrifield Garden Center in Gainesville",
+        "note": "",
+        "phone": "703-368-1919",
+        "address": "6895 Wellington Rd, Gainesville, VA 20156",
+        "web": "https://www.merrifieldgardencenter.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5601584,
+          38.7828758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merrifield Garden Center in Merrifield",
+        "note": "",
+        "phone": "703-560-6222",
+        "address": "8132 Lee Hwy., Falls Church, VA 22042",
+        "web": "http://www.merrifieldgardencenter.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2263454,
+          38.8757109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olde City Garden",
+        "note": "",
+        "phone": "202-412-2489",
+        "address": "1325 Rhode Island Ave NE, Washington, DC 20018",
+        "web": "https://www.oldecitygarden.com/",
+        "seasonal": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9864588,
+          38.9238506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patuxent Nursery",
+        "note": "",
+        "phone": "301-218-4769",
+        "address": "2410 North Crain Highway, Bowie, MD 20716",
+        "web": "https://patuxentnursery.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7143776,
+          38.9228033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petworth Ace Hardware",
+        "note": "",
+        "phone": "202-726-2658",
+        "address": "1240 Upshur St NW, Washington, DC 20011",
+        "web": "http://www.acehardware.com/store-details/17582",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0277849,
+          38.9416235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "REWILD Georgetown",
+        "note": "",
+        "phone": "202-568-1317",
+        "address": "3270 M ST NW, Washington, DC 20007",
+        "web": "https://rewilddc.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0648186,
+          38.9049003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "REWILD Shaw",
+        "note": "",
+        "phone": "202-981-6552",
+        "address": "1924 8th St NW #100, Washington, DC 20001",
+        "web": "https://rewilddc.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0237028,
+          38.916739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrain at Anthropologie & Co. ",
+        "note": "",
+        "phone": "240-345-9413",
+        "address": "4801 Bethesda Ave, Bethesda, MD 20814",
+        "web": "https://www.shopterrain.com/pages/bethesda",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0959582,
+          38.9811814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "True Value On 17th",
+        "note": "",
+        "phone": "202-462-3146",
+        "address": "1623 17th St NW, Washington, DC 20009",
+        "web": "https://stores.truevalue.com/dc/washington/13001/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0382217,
+          38.9120609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ed's Garden Center",
+        "note": "",
+        "phone": "202-526-9670",
+        "address": "1720 New York Ave NE, Washington, DC 20002",
+        "web": "",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9788232,
+          38.9174917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capital City Organics",
+        "note": "hydroponic and organic grow supply shop",
+        "phone": "202-248-2483",
+        "address": "3744 10th St NE, Washington, DC 20017",
+        "web": "https://capcityhydro.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9938289,
+          38.9366226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hampton Nursery Inc",
+        "note": "",
+        "phone": "301-459-7110",
+        "address": "7400 Annapolis Rd, Landover Hills, MD 20784",
+        "web": "http://www.hamptonnursery.net/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8884792,
+          38.9486398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pablo's Garden Center",
+        "note": "",
+        "phone": "240-498-2847",
+        "address": "11941 Rockville Pike, Rockville, MD 20852",
+        "web": "https://www.facebook.com/PablosGardenCenter/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1130611,
+          39.0538324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lee's Flower And Card Shop Inc",
+        "note": "florist shop",
+        "phone": "202-265-4965",
+        "address": "1026 U St NW, Washington, DC 20001",
+        "web": "http://www.leesflowerandcard.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0267476,
+          38.916799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Shop of Flowers",
+        "note": "florist shop",
+        "phone": "202-387-7255",
+        "address": "2421 18th St NW, Washington, DC 20009",
+        "web": "https://www.facebook.com/littleshopofflowersdc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0417553,
+          38.9209
+        ]
+      }
+    }
+  ]
+}
