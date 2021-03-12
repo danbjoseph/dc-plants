@@ -16,8 +16,8 @@ info.onAdd = function (map) {
 info.addTo(map);
 
 var greenIcon = L.icon({
-  iconUrl: './img/marker-limegreen.png',
-  shadowUrl: './img/marker-shadow.png',
+  iconUrl: 'img/marker-limegreen.png',
+  shadowUrl: 'img/marker-shadow.png',
   iconSize:     [25, 36], // size of the icon
   shadowSize:   [41, 41], // size of the shadow
   iconAnchor:   [12, 35], // point of the icon which will correspond to marker's location
@@ -37,7 +37,7 @@ function onEachFeature(feature, layer) {
   }
 }
 
-$.getJSON( "./data/plant_stores.json", function( stores ) {
+$.getJSON( "data/plant_stores.json", function( stores ) {
   L.geoJSON(stores, {
     pointToLayer: function (feature, latlng) {
       return L.marker(latlng, {icon: greenIcon});
