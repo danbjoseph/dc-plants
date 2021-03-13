@@ -638,13 +638,31 @@
         "note": "florist shop",
         "phone": "202-387-7255",
         "address": "2421 18th St NW, Washington, DC 20009",
-        "web": "https://www.facebook.com/littleshopofflowersdc/"
+        "web": "https://www.facebook.com/littleshopofflowersdc/",
+        "seasonal": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.0417553,
           38.9209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roots and Blooms Flower Shop & Cafe",
+        "note": "",
+        "phone": "202-554-3480",
+        "address": "703 Kennedy St NW, Washington, DC 20011",
+        "web": "https://www.therootsandblooms.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0227733,
+          38.9565411
         ]
       }
     }
