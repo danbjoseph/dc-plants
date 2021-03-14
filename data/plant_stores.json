@@ -328,6 +328,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Johnson's Florist and Garden Centers",
+        "note": "",
+        "phone": "301-946-6700",
+        "address": "10313 Kensington Pkwy, Kensington, MD 20895",
+        "web": "http://www.johnsonsflorists.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0714501,
+          39.0253674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lee's Flower And Card Shop Inc",
         "note": "florist shop",
         "phone": "202-265-4965",
