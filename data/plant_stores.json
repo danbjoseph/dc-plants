@@ -4,6 +4,42 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Abernethy & Spencer Greenhouse and Garden Center",
+        "note": "",
+        "phone": "540-338-9118",
+        "address": "18035 Lincoln Rd, Purcellville, VA 20132",
+        "web": "https://abernethyspencer.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.697836,
+          39.1181556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adams Morgan Ace Hardware",
+        "note": "",
+        "phone": "202-299-0040",
+        "address": "1704 Columbia Rd NW, Washington, DC 20009",
+        "web": "https://www.acehardware.com/store-details/16328",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0395059,
+          38.9245429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "American Plant BCC Location",
         "note": "",
         "phone": "301-656-3311",
@@ -70,6 +106,42 @@
         "coordinates": [
           -77.1817041,
           38.8887299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capital City Organics",
+        "note": "hydroponic and organic grow supply shop",
+        "phone": "202-248-2483",
+        "address": "3744 10th St NE, Washington, DC 20017",
+        "web": "https://capcityhydro.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9938289,
+          38.9366226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ed's Garden Center",
+        "note": "",
+        "phone": "202-526-9670",
+        "address": "1720 New York Ave NE, Washington, DC 20002",
+        "web": "",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9788232,
+          38.9174917
         ]
       }
     },
@@ -184,6 +256,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hampton Nursery Inc",
+        "note": "",
+        "phone": "301-459-7110",
+        "address": "7400 Annapolis Rd, Landover Hills, MD 20784",
+        "web": "http://www.hamptonnursery.net/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8884792,
+          38.9486398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Holly, Woods & Vines",
         "note": "",
         "phone": "703-799-1607",
@@ -238,6 +328,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Lee's Flower And Card Shop Inc",
+        "note": "florist shop",
+        "phone": "202-265-4965",
+        "address": "1026 U St NW, Washington, DC 20001",
+        "web": "http://www.leesflowerandcard.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0267476,
+          38.916799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Little Leaf on 14th street",
         "note": "",
         "phone": "202-506-2131",
@@ -250,6 +358,24 @@
         "coordinates": [
           -77.03249,
           38.91418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Shop of Flowers",
+        "note": "florist shop",
+        "phone": "202-387-7255",
+        "address": "2421 18th St NW, Washington, DC 20009",
+        "web": "https://www.facebook.com/littleshopofflowersdc/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0417553,
+          38.9209
         ]
       }
     },
@@ -322,6 +448,24 @@
         "coordinates": [
           -76.9325184,
           39.1188044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meadows Farms Nurseries in Chantilly/South Riding",
+        "note": "",
+        "phone": "",
+        "address": "43054 John Mosby Hwy, Chantilly, VA 20152",
+        "web": "https://meadowsfarms.com/locations/chantilly-south-riding/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5127746,
+          38.9278467
         ]
       }
     },
@@ -436,6 +580,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Pablo's Garden Center",
+        "note": "",
+        "phone": "240-498-2847",
+        "address": "11941 Rockville Pike, Rockville, MD 20852",
+        "web": "https://www.facebook.com/PablosGardenCenter/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1130611,
+          39.0538324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Patuxent Nursery",
         "note": "",
         "phone": "301-218-4769",
@@ -466,6 +628,24 @@
         "coordinates": [
           -77.0277849,
           38.9416235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pots & Plants",
+        "note": "",
+        "phone": "703-759-5900",
+        "address": "10106 VA-193, Great Falls, VA 22066",
+        "web": "https://pots-n-plants.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2948214,
+          38.9989046
         ]
       }
     },
@@ -508,6 +688,42 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Roots and Blooms Flower Shop & Cafe",
+        "note": "",
+        "phone": "202-554-3480",
+        "address": "703 Kennedy St NW, Washington, DC 20011",
+        "web": "https://www.therootsandblooms.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0227733,
+          38.9565411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenleytown Ace Hardware",
+        "note": "",
+        "phone": "202-364-1902",
+        "address": "4500 Wisconsin Ave NW, Washington, DC 20016",
+        "web": "https://www.acehardware.com/store-details/14263",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0807697,
+          38.9487936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Terrain at Anthropologie & Co. ",
         "note": "",
         "phone": "240-345-9413",
@@ -544,125 +760,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ed's Garden Center",
+        "name": "Woodley Park Ace Hardware",
         "note": "",
-        "phone": "202-526-9670",
-        "address": "1720 New York Ave NE, Washington, DC 20002",
-        "web": "",
-        "seasonal": ""
+        "phone": "202-503-1485",
+        "address": "2616 Connecticut Ave NW, Washington, DC 20008",
+        "web": "https://www.acehardware.com/store-details/15582"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9788232,
-          38.9174917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Capital City Organics",
-        "note": "hydroponic and organic grow supply shop",
-        "phone": "202-248-2483",
-        "address": "3744 10th St NE, Washington, DC 20017",
-        "web": "https://capcityhydro.com/",
-        "seasonal": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9938289,
-          38.9366226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hampton Nursery Inc",
-        "note": "",
-        "phone": "301-459-7110",
-        "address": "7400 Annapolis Rd, Landover Hills, MD 20784",
-        "web": "http://www.hamptonnursery.net/",
-        "seasonal": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8884792,
-          38.9486398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Pablo's Garden Center",
-        "note": "",
-        "phone": "240-498-2847",
-        "address": "11941 Rockville Pike, Rockville, MD 20852",
-        "web": "https://www.facebook.com/PablosGardenCenter/",
-        "seasonal": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1130611,
-          39.0538324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Lee's Flower And Card Shop Inc",
-        "note": "florist shop",
-        "phone": "202-265-4965",
-        "address": "1026 U St NW, Washington, DC 20001",
-        "web": "http://www.leesflowerandcard.com/",
-        "seasonal": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0267476,
-          38.916799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Little Shop of Flowers",
-        "note": "florist shop",
-        "phone": "202-387-7255",
-        "address": "2421 18th St NW, Washington, DC 20009",
-        "web": "https://www.facebook.com/littleshopofflowersdc/",
-        "seasonal": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0417553,
-          38.9209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Roots and Blooms Flower Shop & Cafe",
-        "note": "",
-        "phone": "202-554-3480",
-        "address": "703 Kennedy St NW, Washington, DC 20011",
-        "web": "https://www.therootsandblooms.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0227733,
-          38.9565411
+          -77.0522849,
+          38.9241787
         ]
       }
     }
