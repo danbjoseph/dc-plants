@@ -652,6 +652,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Plants Alive!",
+        "note": "",
+        "phone": "301-598-3843",
+        "address": "15710 Layhill Rd, Silver Spring, MD 20906",
+        "web": "http://www.plants-alive.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0383956,
+          39.1134697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pots & Plants",
         "note": "",
         "phone": "703-759-5900",
