@@ -778,6 +778,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Thanksgiving Farms and Garden Center",
+        "note": "",
+        "phone": "301-662-1291",
+        "address": "1619 Buckeystown Pike, Adamstown, MD 21710",
+        "web": "https://www.thanksgivingfarmandgarden.com/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4631166,
+          39.2779516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "True Value On 17th",
         "note": "",
         "phone": "202-462-3146",
