@@ -364,6 +364,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Little Greenhouse",
+        "note": "",
+        "phone": "",
+        "address": "9845 Harford Rd, Parkville, MD 21234",
+        "web": "https://www.baltimoresun.com/maryland/baltimore-county/towson/ph-tt-little-greenhouse-0308recovered-fri-mar--3-073026-2017--20170308-story.html",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51911,
+          39.40276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Little Leaf on 14th street",
         "note": "",
         "phone": "202-506-2131",
