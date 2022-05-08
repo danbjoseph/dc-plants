@@ -30,7 +30,7 @@ function onEachFeature(feature, layer) {
     var popupContent = 
       ( (feature.properties.name.length > 0) ? "<b>" + feature.properties.name + "</b><br>" : "<em>name missing!</em>" ) +
       ( (feature.properties.note.length > 0) ? "<em>" + feature.properties.note + "</em><br>" : "" ) +
-      ( (feature.properties.phone.length > 0) ? feature.properties.phone + "<br>" : "" ) +
+      ( (feature.properties.phone) ? feature.properties.phone + "<br>" : "" ) +
       ( (feature.properties.address.length > 0) ? feature.properties.address + "<br>" : "" ) +
       ( (feature.properties.web.length > 0) ? "<a href=" + '"' + feature.properties.web + '"' + ">"+ feature.properties.web  +"</a>" : "" )
     layer.bindPopup(popupContent);
