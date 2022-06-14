@@ -633,6 +633,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "PlantHouse",
+        "note": "",
+        "address": "921 N St. Asaph Street, Alexandria, VA 22314",
+        "web": "https://www.planthouse.us/alexandria-va",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0457258,
+          38.8147692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Plants Alive!",
         "note": "",
         "address": "15710 Layhill Rd, Silver Spring, MD 20906",
