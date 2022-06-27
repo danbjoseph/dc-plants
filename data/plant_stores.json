@@ -667,6 +667,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "PLANTR",
+        "note": "",
+        "address": "1825 18th St NW, Washington, DC 20009",
+        "web": "https://www.plntr.co/",
+        "seasonal": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.043673,
+          38.9150743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pots & Plants",
         "note": "",
         "address": "10106 VA-193, Great Falls, VA 22066",
